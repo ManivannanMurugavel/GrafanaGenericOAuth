@@ -1,0 +1,6 @@
+access_type : online<br />
+client_id : 852074829307-ius4jash44lqjs5psm1s3pfv1tk68nlr.apps.googleusercontent.com<br />
+redirect_uri : http://localhost:3000/login/generic_oauth<br />
+response_type : code<br />
+scope : openid email nickname<br />
+state : pFtQ+QkaHUb6bb9jCKvLvFo9tNZsG+U1OwdpWbVxs8Y=<br />
